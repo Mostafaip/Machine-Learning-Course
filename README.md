@@ -1,2 +1,2 @@
 # Machine-Learning-Course
-You can find the Homework files of the ML course (Spring 2023) in the UCF.
+You can find the Homework files of the ML course (Spring 2023).
